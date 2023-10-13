@@ -27,3 +27,5 @@ Projenin kullanımı için aşağıdaki adımları takip edebilirsiniz:
 ```c
 # Terminal 1: Sunucu
 ./server
+# Terminal 2: İstemci
+./client [Sunucu PID] [Mesaj]
